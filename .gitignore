@@ -1,0 +1,7 @@
+env/
+.env
+exercise_1.ipynb
+exercise_2.ipynb
+files/
+.cache/
+.streamlit

@@ -1,0 +1,12 @@
+{
+  "code-runner.executorMap": {
+    "python": "$pythonPath -u $fullFileName"
+  },
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.showExecutionMessage": false,
+  "code-runner.ignoreSelection": true,
+  "code-runner.saveFileBeforeRun": true,
+  "python.autoComplete.extraPaths": ["./env/bin/python3"],
+  "python.analysis.extraPaths": ["./env/bin/python3"],
+  "python.analysis.autoImportCompletions": true
+}
